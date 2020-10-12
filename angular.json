@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Seabin-Web-Application"
+    }
+  },
+  "defaultProject": "Seabin-Web-Application",
+  "cli": {
+    "analytics": "02f21c08-be2d-4a28-816c-0d459c69fa17"
+  }
 }
