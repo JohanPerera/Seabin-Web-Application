@@ -1,0 +1,31 @@
+.container {
+  width: 100%;
+  padding: 0px;
+  color: white;
+  background-color: white;
+  -webkit-box-shadow: 0 8px 6px -6px rgb(168, 168, 168);
+  -moz-box-shadow: 0 8px 6px -6px rgb(168, 168, 168);
+  box-shadow: 0 8px 6px -6px rgb(168, 168, 168);
+  padding: 20px 20px 10px 20px;
+  position: absolute;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 600;
+  color: rgb(78, 78, 194);
+}
+
+.button {
+  align-content: center;
+  vertical-align: middle;
+  font-size: 16px;
+  color: grey;
+  padding: 10px 20px 0 20px;
+  border-right: 1px solid grey;
+  cursor: pointer;
+}
+
+.button:hover {
+  color: rgb(78, 78, 194);
+}
