@@ -1,0 +1,34 @@
+.container {
+  background-image: url(./../../../assets/images/5.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+.intro {
+  padding: 36px;
+  font-size: 66px;
+  line-height: 2;
+
+  font-weight: 600;
+  text-shadow: 3px 5px 2px #b8b8b8, 2px 2px 8px rgba(212, 209, 208, 0.25);
+}
+
+.image {
+  height: 550px;
+  /* width: 500px; */
+  background-image: url("./../../../assets/images/1.jpg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.product {
+  background-color: rgb(78, 78, 194);
+  height: 400px;
+  width: 100%;
+  color: white;
+}
+
+.title {
+  font-size: 68px;
+}
